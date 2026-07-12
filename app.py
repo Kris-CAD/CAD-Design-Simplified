@@ -23,7 +23,7 @@ tutorials = [
     {
         "title": "Fusion 360 Beginner Tutorial: Designing a Custom Mounting Bracket",
         "thumbnail": "images/spoon.png",  # Put your thumbnail image file name here
-        "file_name": "spoon.f3d"     # Put the matching CAD file name here
+        "file_name": "Spoon.f3d"     # Put the matching CAD file name here
     },
     {
         "title": "Advanced Sheet Metal Design Rules Explained Simply",
