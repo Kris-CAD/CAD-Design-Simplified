@@ -22,8 +22,8 @@ for folder in [DOWNLOADS_DIR, IMAGES_DIR]:
 tutorials = [
     {
         "title": "Fusion 360 Beginner Tutorial: Designing a Custom Mounting Bracket",
-        "thumbnail": "images/thumbnail1.png",  # Put your thumbnail image file name here
-        "file_name": "mounting_bracket.f3d"     # Put the matching CAD file name here
+        "thumbnail": "images/spoon.png",  # Put your thumbnail image file name here
+        "file_name": "spoon.f3d"     # Put the matching CAD file name here
     },
     {
         "title": "Advanced Sheet Metal Design Rules Explained Simply",
